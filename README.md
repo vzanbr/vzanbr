@@ -13,8 +13,8 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div><br/>
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ### Email para Contato
-## gabriecvr123@gmail.com
+## gabriecvr123@gmail.com ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+
 
 ![image](https://github.com/vzanbr/vzanbr/assets/128941678/0545c187-156a-4481-bee9-9304eb8b2c3b)
