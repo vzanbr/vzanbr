@@ -15,8 +15,9 @@
 </div><br/>
 
 ## **Email para Contato**
+<p align="left>
 <a target="_blank" href="gabriecvr123@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-
+</p>
 
 ![image](https://github.com/vzanbr/vzanbr/assets/128941678/0545c187-156a-4481-bee9-9304eb8b2c3b)
