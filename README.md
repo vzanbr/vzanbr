@@ -2,7 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel19br/)
 
-[![Portfólio](https://img.shields.io/badge/Meu%20site-red)](https://vzanbr.github.io/Gabriel-Lima/)
+[![Portfólio](https://img.shields.io/badge/Meu%20Portfólio-red)](https://vzanbr.github.io/Gabriel-Lima/)
 
 ![Vzanbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=vzanbr&show_icons=true&theme=dracula)
 
