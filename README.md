@@ -1,10 +1,9 @@
 ### Ola! Eu sou o Dev Vzan, Seja Bem vindo ! 👀 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel19br/)
-
+![Vzanbr's Pefil stats](https://camo.githubusercontent.com/267b6e25cd6126d4cffdf412df7cbddb1dad050b05bd62847e5d12a9b2a5b071/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4361726c6f73484d6f726569726138343826636f6c6f723d726564)
 [![Portfólio](https://img.shields.io/badge/Meu%20Portfólio-red)](https://vzanbr.github.io/Gabriel-Lima/)
 
-![Vzanbr's Pefil stats](https://camo.githubusercontent.com/267b6e25cd6126d4cffdf412df7cbddb1dad050b05bd62847e5d12a9b2a5b071/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4361726c6f73484d6f726569726138343826636f6c6f723d726564)
 
 ![Vzanbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=vzanbr&show_icons=true&theme=dracula)
 
