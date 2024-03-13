@@ -16,7 +16,7 @@
 <div align="center">
 <h2>⚜ My Skills ⚜</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,spring,java,mysql,postgresql,docker,)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,angular,spring,java,mysql,postgresql,docker,)](#)
 
 
  🎓 Atualmente estou estudando no projeto "Backend" da  Fourcamp da foursys. <br>
