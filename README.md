@@ -23,7 +23,7 @@
     
   
 <div>
-  <a href="https://vzanbr.github.io/Gabriel-Lima/" target="_blank">
+  <a href="https://gabrieltechbr.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-FF0000?style=for-the-badge&logo=site&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/livesgabriel/" target="_blank">
